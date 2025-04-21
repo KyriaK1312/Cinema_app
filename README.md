@@ -10,6 +10,7 @@ A modern **Cinema Web App** built with **React** that allows users to:
 ## 🚀 Features
 
 - 🔍 Movie search by title, genre, or theme
+- 🧠 Smart suggestions based on user input
 - ❤️ Add or remove movies from favorites
 - 📁 Favorites page to view all saved movies
 - 💅 Styled with **SASS** for clean and responsive UI
